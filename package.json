@@ -1,0 +1,27 @@
+{
+  "name": "kush-2806.github.io",
+  "version": "1.0.0",
+  "description": "Simple Mean app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kush-2806/Kush-2806.github.io.git"
+  },
+  "author": "Kush Shah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kush-2806/Kush-2806.github.io/issues"
+  },
+  "homepage": "https://github.com/Kush-2806/Kush-2806.github.io#readme",
+  "dependencies": {
+    "@angular/cli": "^7.3.7",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.19",
+    "nodemon": "^1.18.10"
+  }
+}
